@@ -4,8 +4,10 @@
   "description": "My react app",
   "main": "index.html",
   "scripts": {
+    "start":"parcel index.html",
+    "build":"parcel build index.html",
     "test": "jest",
-    "build": "parcel build src/index.html"
+     
 
   },
   "author": "Pavan",
