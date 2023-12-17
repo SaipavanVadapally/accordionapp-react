@@ -4,11 +4,9 @@
   "description": "My react app",
   "main": "index.js",
   "scripts": {
-    "start":"parcel index.html",
-    "build":"parcel build index.html",
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
     "test": "jest"
-     
-
   },
   "author": "Pavan",
   "license": "ISC",
@@ -16,8 +14,7 @@
     "cssnano": "^6.0.2",
     "parcel": "^2.10.3",
     "postcss": "^8.0.0",
-    "autoprefixer": "^10.0.0",
-   
+    "autoprefixer": "^10.0.0"
   },
   "dependencies": {
     "react": "^18.2.0",
