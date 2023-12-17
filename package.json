@@ -1,0 +1,22 @@
+{
+  "name": "accordionapp",
+  "version": "1.0.0",
+  "description": "My react app",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Pavan",
+  "license": "ISC",
+  "devDependencies": {
+    "cssnano": "^6.0.2",
+    "parcel": "^2.10.3",
+    "postcss": "^8.0.0",
+    "autoprefixer": "^10.0.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}

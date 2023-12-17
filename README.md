@@ -1,1 +1,1 @@
-# accordionapp-react
+This is Simple Accordion App using react
