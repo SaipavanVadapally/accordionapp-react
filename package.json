@@ -2,7 +2,7 @@
   "name": "accordionapp",
   "version": "1.0.0",
   "description": "My react app",
-  "main": "App.js",
+  "main": "index.html",
   "scripts": {
     "test": "jest",
     "build": "parcel build src/index.html"
