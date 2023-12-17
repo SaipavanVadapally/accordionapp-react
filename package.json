@@ -4,7 +4,9 @@
   "description": "My react app",
   "main": "App.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "build": "parcel build src/index.html"
+
   },
   "author": "Pavan",
   "license": "ISC",
